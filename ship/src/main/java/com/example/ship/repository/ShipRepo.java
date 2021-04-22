@@ -4,7 +4,6 @@ import com.example.ship.model.Ship;
 import com.example.ship.model.ShipId;
 import com.example.ship.model.Status;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
